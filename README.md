@@ -1,27 +1,20 @@
-# 基于SSM的物流快递管理系统2
+# 物流快递管理系统3
 ## 获取方式
 
-扫描下方，回复关键词  ： **快递2**，获取完整版源码
+扫描下方，回复关键词  ： **快递3**，获取完整版源码
 
 ![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
-
 ## 1、项目介绍
 
-基于SSM的物流快递管理系统2拥有三个角色：
-
-管理员：用户管理、管理员管理、新闻公告管理、留言管理、取件预约管理、收件管理、货物分类管理、发件信息管理等
-
-用户：收件预约、发件、我的订单、地址管理、我的快递、我的收件预约、留言
-
-快递员：取件查询、物流订单管理
+物流/快递管理系统3只有一个管理员角色，包含公告管理、仓库管理、供应商管理、物品管理、入库/出库管理/顾客信息查询等功能，适合简单的技术学习
 
 
 ## 2、项目技术
 
-后端框架：SSM（Spring、SpringMVC、Mybatis）
+后端框架： Servlet、mvc模式
 
-前端技术：Bootstrap、jsp、css、JavaScript、JQuery
+前端技术：jsp、css、JavaScript、JQuery
 
 ## 3、开发环境
 
@@ -37,53 +30,25 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221226634.jpg)
+![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242105566.jpg)
 
-### 4.2 前端模块
+### 4.2 其它模块
 
-![前端-首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221227006.jpg)
+![物品信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242105171.jpg)
 
-### 4.3 用户模块
+![入库信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106694.jpg)
 
-![用户-地址管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221227601.jpg)
+![出库信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106366.jpg)
 
-![用户-我的快递](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221227838.jpg)
+![顾客信息查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106835.jpg)
 
-![用户-发件管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221227282.jpg)
+![供应商管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106907.jpg)
 
-![用户-我的订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221227440.jpg)
+![仓库信息查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106203.jpg)
 
-![用户-添加预约取件](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221227968.jpg)
+![公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106475.jpg)
 
-![用户-收件预约订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221227414.jpg)
-
-### 4.4 快递模块
-
-![快递-取件查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221227730.jpg)
-
-![快递-创建物流单号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221227487.jpg)
-
-### 4.5 管理员模块
-
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221227305.jpg)
-
-![管理员-管理员信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221227225.jpg)
-
-![管理员-添加新闻公告](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221227909.jpg)
-
-![管理员-公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221227067.jpg)
-
-![管理员-留言管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221228499.jpg)
-
-![管理员-取件预约管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221228929.jpg)
-
-![管理员-快递员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221228160.jpg)
-
-![管理员-收件管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221228076.jpg)
-
-![管理员-货物分类管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221228501.jpg)
-
-![管理员-发件预约管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309221228762.jpg)
+![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106545.jpg)
 
 ## 5、视频演示
 

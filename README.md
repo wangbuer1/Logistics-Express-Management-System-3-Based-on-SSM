@@ -5,6 +5,10 @@
 
 ![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
+# 物流/快递管理系统3
+
+
+
 ## 1、项目介绍
 
 物流/快递管理系统3只有一个管理员角色，包含公告管理、仓库管理、供应商管理、物品管理、入库/出库管理/顾客信息查询等功能，适合简单的技术学习
@@ -30,29 +34,29 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242105566.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202309242105566.jpg)
 
 ### 4.2 其它模块
 
-![物品信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242105171.jpg)
+![物品信息管理](https://www.codeshop.fun/Typora-Images/202309242105171.jpg)
 
-![入库信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106694.jpg)
+![入库信息管理](https://www.codeshop.fun/Typora-Images/202309242106694.jpg)
 
-![出库信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106366.jpg)
+![出库信息管理](https://www.codeshop.fun/Typora-Images/202309242106366.jpg)
 
-![顾客信息查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106835.jpg)
+![顾客信息查看](https://www.codeshop.fun/Typora-Images/202309242106835.jpg)
 
-![供应商管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106907.jpg)
+![供应商管理](https://www.codeshop.fun/Typora-Images/202309242106907.jpg)
 
-![仓库信息查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106203.jpg)
+![仓库信息查看](https://www.codeshop.fun/Typora-Images/202309242106203.jpg)
 
-![公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106475.jpg)
+![公告管理](https://www.codeshop.fun/Typora-Images/202309242106475.jpg)
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106545.jpg)
+### 4.3 文档目录
 
-## 5、视频演示
+![文档目录](https://www.codeshop.fun/Typora-Images/202309242106545.jpg)
 
-[点击播放视频，视频位于文章最后](输入链接)
+
 
 
 
